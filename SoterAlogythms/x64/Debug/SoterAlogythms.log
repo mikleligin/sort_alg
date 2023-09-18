@@ -1,0 +1,3 @@
+﻿  SoterAlogythms.cpp
+C:\Users\monke\source\repos\SoterAlogythms\SoterAlogythms\SoterAlogythms.cpp(88,25): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+  SoterAlogythms.vcxproj -> C:\Users\monke\source\repos\SoterAlogythms\x64\Debug\SoterAlogythms.exe
